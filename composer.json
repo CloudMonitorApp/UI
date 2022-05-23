@@ -1,0 +1,10 @@
+{
+    "name": "cloudmonitor/ui",
+    "authors": [
+        {
+            "name": "Emil Moe",
+            "email": "contact@cloudmonitor.dk"
+        }
+    ],
+    "require": {}
+}
